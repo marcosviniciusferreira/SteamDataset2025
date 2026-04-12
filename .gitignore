@@ -1,0 +1,4 @@
+# Ignorar arquivos de dados pesados
+*.csv
+*.dump
+*.json
